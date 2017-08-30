@@ -1,0 +1,4 @@
+TOFD package pinout:
+Left to right:
+ |     |     |    |    |    |
+GND  MISO  MOSI  CLK  CS   VDD
